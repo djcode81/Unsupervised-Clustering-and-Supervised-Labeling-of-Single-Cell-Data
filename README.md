@@ -16,7 +16,7 @@ This project implements both **unsupervised clustering** and **supervised labeli
 ## **Usage**
 ```bash
 python3 best_cleaned.py -t mouse_spatial_brain_section0.h5ad -d mouse_spatial_brain_section1_modified.h5ad -o clusters.npy # supervised labeling
-
+```
 
 
 The pipeline was evaluated using Adjusted Mutual Information (AMI) scores and ended up scoring the highest in class 😎
