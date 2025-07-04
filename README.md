@@ -23,7 +23,7 @@ The pipeline was evaluated using Adjusted Mutual Information (AMI) scores & ende
 
 
 Acknowledgments : 
-This project was completed as part of the MSCBIO2066 Machine Learning for Biomedical Applications coursework at University of Pittsburgh.
+This project was completed as part of the MSCBIO2066 Machine Learning for Biomedical Applications coursework at the University of Pittsburgh.
 
 
 
