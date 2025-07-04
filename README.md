@@ -19,7 +19,7 @@ python3 best_cleaned.py -t mouse_spatial_brain_section0.h5ad -d mouse_spatial_br
 ```
 
 
-The pipeline was evaluated using Adjusted Mutual Information (AMI) scores & ended up scoring the highest in [class](https://bits.csb.pitt.edu/cobb2060/assign3/)  (nickname: oceanman🙂)
+The pipeline was evaluated using Adjusted Mutual Information (AMI) scores & ended up scoring the highest in [class](https://bits.csb.pitt.edu/cobb2060/assign3/) , while also beating the previous cohort's best score  (nickname: oceanman🙂)
 
 
 Acknowledgments : 
