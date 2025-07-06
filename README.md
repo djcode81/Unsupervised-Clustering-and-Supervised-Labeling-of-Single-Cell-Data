@@ -16,6 +16,12 @@ This project implements both **unsupervised clustering** and **supervised labeli
 * **Efficient preprocessing pipeline** that normalizes, log-transforms, and selects highly variable genes.
 * **Scalable and modular implementation** using Python and Scanpy.
 
+### UMAP Clustering Results
+![UMAP Clustering Results](images/image2.png)
+
+### Cell Type Classification
+![Cell Type Classification](images/image1.png)
+
 ## Files
 * `best_cleaned.py` - Main script for both clustering and classification.
 * `streamlit_app.py` - Interactive web interface for analysis and visualization.
