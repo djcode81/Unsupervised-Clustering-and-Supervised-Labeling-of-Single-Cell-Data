@@ -28,7 +28,7 @@ python3 best_cleaned.py -t mouse_spatial_brain_section0.h5ad -d mouse_spatial_br
 streamlit run streamlit_app.py
 ```
 
-The pipeline was evaluated using Adjusted Mutual Information (AMI) scores & ended up scoring the highest in [class](https://bits.csb.pitt.edu/cobb2060/assign3/), while also beating the previous cohort's best score (nickname: oceanman🙂)
+The pipeline was evaluated using Adjusted Mutual Information (AMI) scores & ended up scoring the highest in [class](https://bits.csb.pitt.edu/cobb2060/assign3/) , while also beating the previous cohort's best score (nickname: oceanman🙂)
 
 **Acknowledgments:** This project was completed as part of the MSCBIO2066 Machine Learning for Biomedical Applications coursework at the University of Pittsburgh.
 
