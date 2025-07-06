@@ -10,10 +10,10 @@ This project implements both **unsupervised clustering** and **supervised labeli
 * **Scalable and modular implementation** using Python and Scanpy.
 
 ### UMAP Clustering Results
-![Unsupervised Results](images/image1.png)
+![Unsupervised Results](images/image2.png)
 
 ### Cell Type Classification
-![Supervised Results](images/image2.png)
+![Supervised Results](images/image1.png)
 
 
 ## Files
