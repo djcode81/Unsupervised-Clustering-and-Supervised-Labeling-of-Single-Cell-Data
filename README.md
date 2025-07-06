@@ -1,4 +1,4 @@
-# Unsupervised Clustering and Supervised Labeling of Single-Cell Data
+# Interactive Single-Cell Analysis Platform for Unsupervised Clustering and Supervised Labelling
 
 This project implements both **unsupervised clustering** and **supervised labeling** of single-cell RNA sequencing data. It leverages **highly variable gene selection (HVG), PCA for dimensionality reduction, UMAP embeddings, K-Means clustering, and Random Forest classification** to analyze single-cell transcriptomic datasets.
 
